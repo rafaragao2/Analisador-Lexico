@@ -1,2 +1,2 @@
-# Analisador Lexico
-Analisador Lexico feito em java para a disciplina de POO.
+# Lexical analyzer
+Lexical analyzer made for the discipline of PROG3
